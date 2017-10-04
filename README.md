@@ -15,3 +15,8 @@ This theme is fully customizable. See customizing.md for info on how to change l
 A working demo for the site will be added soon.
 
 Cheers! :)
+
+## Screenshots
+Here are a few screenshots of the website
+![Image Description](screenshot1.png)
+![Image Description](screenshot2.png)
