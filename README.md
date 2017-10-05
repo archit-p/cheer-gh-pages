@@ -12,6 +12,6 @@ Some CSS was borrowed from the Whiteglass theme. The site looks beautiful on mob
 This theme is fully customizable. See customizing.md for info on how to change layouts, add pages, add content etc.
 
 ## Demo
-A working demo for the site will be added soon.
+![Home](screenshots/Screenshot-2017-10-5 About.png)
 
 Cheers! :)
