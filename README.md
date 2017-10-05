@@ -13,6 +13,6 @@ This theme is fully customizable. See customizing.md for info on how to change l
 
 ## Demo
 
-![Alt Text](https://github.com/marcusberger/cheer-gh-pages/raw/master/path/to/Screenshot-2017-10-5 About.png)
+![Alt Text](https://github.com/marcusberger/cheer-gh-pages/raw/master/path/to/about.png)
 
 Cheers! :)
