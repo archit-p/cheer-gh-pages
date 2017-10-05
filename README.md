@@ -12,6 +12,7 @@ Some CSS was borrowed from the Whiteglass theme. The site looks beautiful on mob
 This theme is fully customizable. See customizing.md for info on how to change layouts, add pages, add content etc.
 
 ## Demo
-![alt text](screenshots/Screenshot-2017-10-5 About.png "Home")
+
+![Alt Text](https://github.com/marcusberger/cheer-gh-pages/raw/master/path/to/Screenshot-2017-10-5 About.png)
 
 Cheers! :)
