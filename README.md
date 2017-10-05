@@ -15,6 +15,6 @@ This theme is fully customizable. See customizing.md for info on how to change l
 
 
 
-![Alt text](/relative/path/to/home.png?raw=true "Home")
+![Alt text](/relative/screenshots/to/home.png?raw=true "Home")
 
 Cheers! :)
