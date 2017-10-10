@@ -13,9 +13,8 @@ This theme is fully customizable. See customizing.md for info on how to change l
 
 ## Demo
 
-![Settings Window](https://raw.github.com/marcusberger/cheer-gh-pages/master/screenshots/home.png)
-![Settings Window](https://raw.github.com/marcusberger/cheer-gh-pages/master/screenshots/projects.png)
-![Settings Window](https://raw.github.com/marcusberger/cheer-gh-pages/master/screenshots/blog.png)
-![Settings Window](https://raw.github.com/marcusberger/cheer-gh-pages/master/screenshots/about.png)
+![Settings Window](https://raw.github.com/archit-p/cheer-gh-pages/master/screenshots/home.png)
+![Settings Window](https://raw.github.com/archit-p/cheer-gh-pages/master/screenshots/projects.png)
+![Settings Window](https://raw.github.com/archit-p/cheer-gh-pages/master/screenshots/blog.png)
 
 Cheers! :)
