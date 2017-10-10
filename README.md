@@ -12,6 +12,9 @@ Some CSS was borrowed from the Whiteglass theme. The site looks beautiful on mob
 This theme is fully customizable. See customizing.md for info on how to change layouts, add pages, add content etc.
 
 ## Demo
-A working demo for the site will be added soon.
+
+![Settings Window](https://raw.github.com/archit-p/cheer-gh-pages/master/screenshots/home.png)
+![Settings Window](https://raw.github.com/archit-p/cheer-gh-pages/master/screenshots/projects.png)
+![Settings Window](https://raw.github.com/archit-p/cheer-gh-pages/master/screenshots/blog.png)
 
 Cheers! :)
