@@ -1,15 +1,13 @@
 # Cheer
 ### A theme for Jekyll personal websites
-Cheer is a minimal text-based theme for personal sites.
+Cheer is a minimal text-based theme for personal sites. It makes use of bold fonts to emphasize content.
 
 ## Page Structure
-It includes four pages - home, about, projects and blog. There is no site-name as such as this is aimed at being a personal site theme. 
+Cheer includes four pages - home, about, projects and blog. These are the pages most programmers need to showcase there skills to the world. There is no site-name as such as this is aimed at being a personal site. 
+To add posts, just add a correctly named markdown files to blog/posts folder, and similarly to add projects add markdown files to the projects/posts folder.
 
 ## CSS
-Some CSS was borrowed from the Whiteglass theme. The site looks beautiful on mobile. Contents have a good flow to them. 
-
-## Customizability
-This theme is fully customizable. See customizing.md for info on how to change layouts, add pages, add content etc.
+Some CSS was borrowed from the Whiteglass theme, to make the site look beautiful on mobile. The minimal theme is carried out throughout the website. Heavy fonts are used, and colors are kept to a minimum. 
 
 ## Demo
 
